@@ -1,0 +1,11 @@
+@media(max-width: 670px) {
+  body{
+    margin:0 auto;
+  }
+
+  .btn {
+    width:80%;
+    margin-bottom:30px;
+  }
+
+}
